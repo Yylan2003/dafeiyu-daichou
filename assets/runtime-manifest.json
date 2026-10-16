@@ -1,0 +1,198 @@
+[
+  {
+    "file": "assets/runtime/items/black_devil_vanilla.png",
+    "sha256": "a2f5fc724ac27ff4008b2c20465cce34ee9cb347b42af269f41550a82145548c"
+  },
+  {
+    "file": "assets/runtime/items/daguanyuan.png",
+    "sha256": "9bb86c4481320718a56e4a7692cf63b6fd669ea79a41d73fe3dfa9157564a723"
+  },
+  {
+    "file": "assets/runtime/items/duckbill.png",
+    "sha256": "56f6ce7f9c6cdf6c8e04f9d6a579d07cfd9c891f44ad415c6ea3b1e96c941740"
+  },
+  {
+    "file": "assets/runtime/items/esse_watermelon.png",
+    "sha256": "3ffdcff9a213c02dda85631c79c1ba3f2134f04d82961823e2347e995e139e5a"
+  },
+  {
+    "file": "assets/runtime/items/feima.png",
+    "sha256": "77660e9034eca13739c08e1f6b6cf148f956e1ab96e05ae3014c6d8e08df3502"
+  },
+  {
+    "file": "assets/runtime/items/furongwang.png",
+    "sha256": "8ad8ec58ca5579deb371fc4d6884aad483dd9f8198f781946d8152e2e4a43153"
+  },
+  {
+    "file": "assets/runtime/items/hehua.png",
+    "sha256": "ea8fabd2cd05d6a04f7820eea286490acded64496e8b231e71fae0edbffa3c40"
+  },
+  {
+    "file": "assets/runtime/items/hetianxia.png",
+    "sha256": "7b45e929b78190d51b30900c724af3020a17edc9b8c9dc9505f400d1fd31c3df"
+  },
+  {
+    "file": "assets/runtime/items/hongmei.png",
+    "sha256": "ea0bc5ab0314c285798b3b9634d83cd3eb4366bc0c40faadf0782e3b50b78e96"
+  },
+  {
+    "file": "assets/runtime/items/jiangnanyun.png",
+    "sha256": "691cf1298ff595b7b1903d4478de983567b9bc55a6246e6257a51db659e45cc7"
+  },
+  {
+    "file": "assets/runtime/items/jinchai.png",
+    "sha256": "98511f570a6209548ee1917867afb46e26aab5817b3c76a15426759789aad009"
+  },
+  {
+    "file": "assets/runtime/items/kuanzhai.png",
+    "sha256": "acfe82dea6461f8c4b54383426d7293231f7b745de98506777529f8d76785752"
+  },
+  {
+    "file": "assets/runtime/items/liqun.png",
+    "sha256": "d2b373478145eda1bf4406b42cec9d335f83a834e14731df7dcd1e2843a97dc7"
+  },
+  {
+    "file": "assets/runtime/items/lost_mary.png",
+    "sha256": "bb6a8b4c3877397f1fbd1a6d7241aa74653fe92f140112e0d9030bf0df016f28"
+  },
+  {
+    "file": "assets/runtime/items/lucky_strike.png",
+    "sha256": "cbb094bb063ff883a27a3221d4e88fbefd54450071461cd7b1df1f3138eb8820"
+  },
+  {
+    "file": "assets/runtime/items/marlboro_red.png",
+    "sha256": "3b23dae34abe7f7c9045936ebcbfbd638da608cecb3983de3df608ab7dce3c5b"
+  },
+  {
+    "file": "assets/runtime/items/peel_redwine.png",
+    "sha256": "c8584cdf1a98e58d80b56de122fee22818a175779150d77998659240879c141a"
+  },
+  {
+    "file": "assets/runtime/items/relx5.png",
+    "sha256": "bf7bfaa041901f0f161cc87cf3af56da4b54658637ba7be09ff031f3fb7af8cf"
+  },
+  {
+    "file": "assets/runtime/items/rice.png",
+    "sha256": "e03f32dbdd775d5ef8faec2ce2c53ca9d704b09f14474f08b72fd075c431d8d9"
+  },
+  {
+    "file": "assets/runtime/items/yinchai.png",
+    "sha256": "3289465c1633dfc449fdbb414a89f428187a9a4f5a3d4254d15ec180f21bce82"
+  },
+  {
+    "file": "assets/runtime/items/yingchun.png",
+    "sha256": "75f7c1c9e3741bbe7080032c8f1aa92174d38c64d8f008ec3c994e9fad056ee0"
+  },
+  {
+    "file": "assets/runtime/items/yuhuashi.png",
+    "sha256": "cad4da7e5ee27a683299c246374fb76a031b5143f52c8792dc35e60d49814fdc"
+  },
+  {
+    "file": "assets/runtime/items/yuxi.png",
+    "sha256": "c9c91f04922d9ea590719b76e39ca483e026855f3c84f4b35cec67bfebe9f89e"
+  },
+  {
+    "file": "assets/runtime/items/zhonghua_hard.png",
+    "sha256": "b3a4d92ead2dbd5ef2441169aeb4639e2832217ea2f3685b63ff1ce665db264b"
+  },
+  {
+    "file": "assets/runtime/items/zhonghua_soft.png",
+    "sha256": "dae9c2d0de1cbe6012520a33df4a427843f4bfd0fe991b64696a8a84dbcd9ac4"
+  },
+  {
+    "file": "assets/runtime/poses/book_throw.png",
+    "sha256": "13c60a07d68c676ef372f781d48c42ea2a362ddde16e39803ba7648d1293f69f"
+  },
+  {
+    "file": "assets/runtime/poses/close_book.png",
+    "sha256": "36988a1db6a3c75516f0c85ce52516df76c84eb161451092003ffa968504edc7"
+  },
+  {
+    "file": "assets/runtime/poses/cough.png",
+    "sha256": "a7fd3db654fe3a64cd7fb4e40fdb4a65bdb7fe580bda6b94c46ceddd240eb0e9"
+  },
+  {
+    "file": "assets/runtime/poses/cough_left.png",
+    "sha256": "151e4590d62bd14984c0c05ae22e26f7dc0f482ae970b956b78dd80165d79920"
+  },
+  {
+    "file": "assets/runtime/poses/count.png",
+    "sha256": "c48e3011a6aa09fd7ac0b579360311f261bd8bd315b8940b076bf812d3fdc4fd"
+  },
+  {
+    "file": "assets/runtime/poses/count_arm.png",
+    "sha256": "6d7ae7e05dfba63de0b10a026d2e452ec0bd95e8d3651f3e37904afbe83b945f"
+  },
+  {
+    "file": "assets/runtime/poses/count_body.png",
+    "sha256": "91ff5e639d2ba296f5c75855b6545b9f962b6459b8b0aa53cb620666095e2603"
+  },
+  {
+    "file": "assets/runtime/poses/crave.png",
+    "sha256": "28b840df4f07238cf863d16997dd1921f8b3bd669d7b6ac70726ee2ad23dc227"
+  },
+  {
+    "file": "assets/runtime/poses/dead.png",
+    "sha256": "a2a876d56cbb5e74b95f2dfdffff5d78f885c81d96f7cb163579be42bca3c597"
+  },
+  {
+    "file": "assets/runtime/poses/drunk.png",
+    "sha256": "139e3e21e96ee14abdd1e4cc0c2345257b3297a08afb1bff117bcff442cc9b08"
+  },
+  {
+    "file": "assets/runtime/poses/equip.png",
+    "sha256": "1bf2176258eee353b3729a3c0bb7e9b52d95138a282a084ead7fa724a1594535"
+  },
+  {
+    "file": "assets/runtime/poses/exhale.png",
+    "sha256": "d356afece10ea1a5ac1cf17c5952496b7b1e6aad702f54daa482df26ac9a73d8"
+  },
+  {
+    "file": "assets/runtime/poses/read.png",
+    "sha256": "aebf1c7a6d4055e0d675657f7b2f6e058ff1ece12a98a4037081d2bebd085b7f"
+  },
+  {
+    "file": "assets/runtime/poses/revive.png",
+    "sha256": "445d8a77174dede6f3e51860230f3e43385411f0e193309bd58e99a80d489463"
+  },
+  {
+    "file": "assets/runtime/poses/rig_arm.png",
+    "sha256": "5690a4e45414162caf256df4f31e37e45589352ca5b26b1e7bcdce5ffed17e13"
+  },
+  {
+    "file": "assets/runtime/poses/rig_body.png",
+    "sha256": "421b04c8a3dd894e93292d32004bf07f71f5a7bbadb9e732f567a26796babf5f"
+  },
+  {
+    "file": "assets/runtime/poses/sleep.png",
+    "sha256": "fb0a3c64636e16c1dd052f4f35aba0f91bea99085635e74320797719b7f67f65"
+  },
+  {
+    "file": "assets/runtime/poses/smash.png",
+    "sha256": "e0440cd0568b84a7d35fab07392292fb40b44d862fa909080e90316636451187"
+  },
+  {
+    "file": "assets/runtime/poses/smoke.png",
+    "sha256": "51e2ee19ae48b63eba7c8b82c55591fd735abebc0bebd63a795b580d06dc7dac"
+  },
+  {
+    "file": "assets/runtime/poses/think.png",
+    "sha256": "f1577ad8c1a61205b27d9da037b9b1c7595ac9c5b539f82b4d946fe4391a9f15"
+  },
+  {
+    "file": "assets/runtime/poses/throw.png",
+    "sha256": "fccea762c68da61dfe133aca6de30ea688d15349d3c875ed89bc2ea7aeeda3f7"
+  },
+  {
+    "file": "assets/runtime/poses/vape.png",
+    "sha256": "b21e085c7208c83bcf6cd1aec3e82cea9792b158da2c330591705c2fb0a8e3e1"
+  },
+  {
+    "file": "assets/runtime/poses/vape_exhale.png",
+    "sha256": "1989e0e2c9fcb2a85049d1e832311d92a5cb45d3797534806b91b063cce76d3e"
+  },
+  {
+    "file": "assets/runtime/poses/walk.png",
+    "sha256": "3391fac9ec2125ac5a8aee3732336062147105a34d955b4e34f66a73217f0d48"
+  }
+]

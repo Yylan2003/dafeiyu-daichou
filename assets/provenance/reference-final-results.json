@@ -1,0 +1,32 @@
+﻿[
+    {
+        "id":  "lucky_strike",
+        "file":  "外国烟图片/Lucky_Strike_Red_King_Size_英国包装.jpg",
+        "page":  "https://www.smoke-king.co.uk/products/lucky-strike-red-king-size-20-cigarettes",
+        "title":  "Lucky Strike Red King Size - 20 Cigarettes\n",
+        "image":  "https://www.smoke-king.co.uk/cdn/shop/files/cy1y0cgmy4v.jpg?v=1721298634\u0026width=940",
+        "dimensions":  "940x940",
+        "status":  "downloaded",
+        "note":  "明确标注 Red King Size 20 支的英国标准化包装；保留警示，不以其他国家旧包装冒充。"
+    },
+    {
+        "id":  "relx5",
+        "file":  "电子烟图片/悦刻五代_RELX_Phantom_皎月银.jpg",
+        "page":  "https://t-vape.com/products/悦刻relx-幻影五代杆-皎月银-无字烟杆-四五六代烟弹通用",
+        "title":  "\n      悦刻Relx 幻影五代杆 皎月银 Phantom精工烟杆（四五六代烟弹通用）\n – 悦淘蒸汽",
+        "image":  "https://t-vape.com/cdn/shop/files/lucky-8-vapes-vancouver-canada-free-shipping-RELX-Infinity-PlusPhantom-Vape-Pod-Device-Kit-RELX-Device-6_1024x1024_a491d12e-021b-4d6a-84a3-57331f87fc8a.jpg?v=1738828321\u0026width=1946",
+        "dimensions":  "750x750",
+        "status":  "downloaded",
+        "note":  "资料页标注五代幻影皎月银；非官方零售参考，游戏800口为模拟规则。"
+    },
+    {
+        "id":  "lost_mary",
+        "file":  "电子烟图片/LOST_MARY_MT35000_TURBO_Scary_Berry.jpg",
+        "page":  "https://www.lostmary.com/product/mt35000-turbo.html",
+        "title":  "",
+        "image":  "https://d31ixytk8zua6i.cloudfront.net/products/mt35000/Scary_Berry_2x.jpg",
+        "dimensions":  "416x784",
+        "status":  "downloaded",
+        "note":  "按用户授权选择升级型号 MT35000 TURBO，Scary Berry 配色，品牌官网图；不声称全球售价最高，游戏41元和800口均按用户设定。"
+    }
+]

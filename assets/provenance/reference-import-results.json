@@ -1,0 +1,41 @@
+[
+  {
+    "id": "lucky_strike",
+    "file": "外国烟图片/Lucky_Strike_Red_Superkings_正面.jpg",
+    "page": "https://www.bullbrand.co.uk/products/lucky-strike-red-superkings-20-pack",
+    "image": "https://www.bullbrand.co.uk/cdn/shop/files/Lucky_Strike_Red_SK.jpg?v=1689707924&width=1946",
+    "dimensions": "1000x1000",
+    "status": "downloaded",
+    "note": "替换旧 King Size：图片正面明确标注 Red Superking；原始照片保留，游戏规格 Super King Size、420 秒。"
+  },
+  {
+    "id": "lost_mary",
+    "file": "电子烟图片/LOST_MARY_MT35000_正面.png",
+    "page": "https://www.gopuff.com/p/lost-mary-mt35k-turbo-scary-berry-disposable-vape-35-000-puffs/p290327",
+    "image": "https://images.gopuff.com/blob/gopuffcatalogstorageprod/catalog-images-container/resize/cf/version%3D1_2%2Cformat%3Dpng%2Cfit%3Dscale-down%2Cwidth%3D800%2Cheight%3D800/a8fab278-9b75-4266-a2f8-b620b0d591a0-padded.png",
+    "dimensions": "800x800",
+    "status": "downloaded",
+    "note": "MT35000 TURBO Scary Berry+ 紫色机身正面商品图，透明底；游戏固定 800 口，不采用包装参数。"
+  },
+  {
+    "id": "relx5",
+    "file": "电子烟图片/悦刻五代_正面处理.png",
+    "page": "https://t-vape.com/products/悦刻relx-幻影五代杆-皎月银-无字烟杆-四五六代烟弹通用",
+    "sourceFile": "电子烟图片/悦刻五代_RELX_Phantom_皎月银.jpg",
+    "dimensions": "1024x1536",
+    "status": "downloaded",
+    "processing": "imagegen 编辑：原照片抠图、转为竖直正面；不是未经处理的新实拍照片。",
+    "note": "保留五代银色外壳、黑色吸嘴和三条指示灯，使用原始参考照片处理后的机身图。"
+  },
+  {
+    "id": "duckbill",
+    "file": "电子烟图片/鸭嘴兽_正面处理.png",
+    "page": "https://www.snowplustech.com/products/dash",
+    "image": "https://www.snowplustech.com/cdn/shop/files/RootbeerFizz_ade95337-545d-4e7d-b120-ba9d69e96e13_2500x3751.jpg?v=1703137631",
+    "sourceFile": "assets/front-sources/duckbill.jpg",
+    "dimensions": "1024x1536",
+    "status": "downloaded",
+    "processing": "imagegen 编辑：从官方正面广告图中提取机身，去除外部冰块和广告背景。",
+    "note": "Snowplus DASH 一次性款 Rootbeer Fizz 橙色透明鸭嘴，机身图经过抠图处理。"
+  }
+]
